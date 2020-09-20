@@ -1,7 +1,11 @@
 # Your code goes here!
 class Anagram
+attr_accessor :anagram
 
-def match
+@@all = []
+
+def initialize
 end
+
 
 end
