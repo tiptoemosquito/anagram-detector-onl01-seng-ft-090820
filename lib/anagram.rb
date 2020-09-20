@@ -13,8 +13,5 @@ class Anagram
     %w()
   end
 
-  def split(anagram)
-    ().split
-  end
 
 end
