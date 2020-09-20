@@ -4,7 +4,8 @@ attr_accessor :anagram
 
 @@all = []
 
-def initialize
+def initialize(anagram)
+  @anagram = anagram
 end
 
 
