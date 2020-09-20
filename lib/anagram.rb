@@ -1,7 +1,7 @@
 # Your code goes here!
 class Anagram
 
-def match 
+def match
 end
 
 end
